@@ -5,8 +5,8 @@ Understanding customers and their behaviors is critical for any business that ai
 
 Using PCA(Principal component analysis) and K-Means clustering algorithm, I segmented the customer base into four meaningful groups. Each cluster represents customers who exhibit similar purchasing patterns, income levels, and lifestyle traits. The insights derived from these clusters help the company better target its marketing campaigns, allocate resources efficiently, and tailor engagement strategies to different customer needs.
 
-<img width="385" height="347" alt="clusters" src="https://github.com/user-attachments/assets/ff519d92-e78a-4c4b-807e-ca84538e9d91" />
-<img width="534" height="348" alt="k plot" src="https://github.com/user-attachments/assets/2d3794c2-a97c-4cb4-9236-4f34ba351859" />
+<img width="350" height="347" alt="clusters" src="https://github.com/user-attachments/assets/ff519d92-e78a-4c4b-807e-ca84538e9d91" />
+<img width="500" height="348" alt="k plot" src="https://github.com/user-attachments/assets/2d3794c2-a97c-4cb4-9236-4f34ba351859" />
 
 
 The dataset included information on income, age, marital and parental status, education, household size, product purchases (wine, meat, fruits, fish, sweets, and gold), and various shopping behaviors (online, in-store, catalog, and deal purchases) on more than 2000 customers
@@ -31,8 +31,8 @@ Their spending patterns show a clear price sensitivity. They spend very little o
 
 In terms of lifestyle, most customers in this cluster are married or in relationships, reinforcing the idea of a stable, family oriented demographic.
 
-<img width="450" height="604" alt="Screenshot 2025-10-21 141752" src="https://github.com/user-attachments/assets/3474058e-8abf-4584-ac2e-24256567df23" />
-<img width="500" height="604" alt="income vs spending" src="https://github.com/user-attachments/assets/30dd537b-e309-496c-b820-afd1d02a502c" />
+<img width="400" height="604" alt="Screenshot 2025-10-21 141752" src="https://github.com/user-attachments/assets/3474058e-8abf-4584-ac2e-24256567df23" />
+<img width="450" height="604" alt="income vs spending" src="https://github.com/user-attachments/assets/30dd537b-e309-496c-b820-afd1d02a502c" />
 
 
 #### Cluster 2: Stable and Loyal Mid-Tier Customers (Balanced and Reliable Segment)
